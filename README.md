@@ -1,5 +1,6 @@
 # Image-Segmentation-with-UNet
 Using TF Keras to built a UNet for image segmentation.
+**Note: The `data` folder containing the training set could not be uploaded to GitHub**
 
 ## Objectives
 
